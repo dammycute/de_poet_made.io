@@ -64,7 +64,7 @@ textarea{
   border .2em solid blue;
 }
 
-button {
+input[type=submit] {
   color: blue;
   background-color: white;
   margin: 1.5em;
